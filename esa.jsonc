@@ -2,6 +2,7 @@
   "name": "vite-react-template",
   "assets": {
     "directory": "./dist",
-    "notFoundStrategy": "singlePageApplication"
+    "notFoundStrategy": "singlePageApplication",
+    "installCommand": "yarn"
   }
 }
