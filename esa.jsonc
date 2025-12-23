@@ -2,7 +2,7 @@
   "name": "vite-react-template",
   "assets": {
     "directory": "./dist",
-    "notFoundStrategy": "singlePageApplication",
-    "installCommand": "bun install"
+    "notFoundStrategy": "singlePageApplication"
   }
+  "installCommand": "pnpm install"
 }
